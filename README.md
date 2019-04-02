@@ -13,3 +13,7 @@ Since there are some pretty esoteric words out there, especially for smaller wor
 To use this, set the `word_jumble` variable, and run the notebook!
 
  I found that a scrabble dictionary was the most reliable, but there are a few other dictionary options in here as well
+
+Example daily word jumble: 
+
+![](word-jumble-example.jpg)
